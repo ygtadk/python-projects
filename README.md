@@ -1,2 +1,3 @@
-# python_projects
+# Yiğit's Python Projects
+
  Python Projects for learning purposes.
