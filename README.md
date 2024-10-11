@@ -1,3 +1,9 @@
 # Yiğit's Python Projects
 
- Python Projects for learning purposes.
+ Python projects for learning purposes.
+ All codes are tested with Python 3.12
+
+## For Beginners
+* [Hello World]()
+* [Number Guessing Game]()
+
